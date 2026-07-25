@@ -1,6 +1,0 @@
-{
-  "name": "Pangea Bocas CX & Knowledge Base",
-  "description": "Customer Service Manual, Pre-Departure Checklists, Cooler Formula Calculator, Wildlife Knowledge Base, and AI Assistant for Pangea Bocas Reception, Captains, and Mates.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
