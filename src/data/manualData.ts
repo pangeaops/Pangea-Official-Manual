@@ -117,7 +117,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Damas y caballeros, miren al frente! Bienvenidos a Escudo de Veraguas — una de las islas más remotas y vírgenes del Caribe. Esta isla se aisló del continente hace más de 9,000 años, creando un laboratorio evolutivo único. Justo en esos manglares rojos habita el Perezoso Pigmeo de Tres Dedos — una especie endémica que NO existe en ningún otro lugar del planeta. ¡Mantengan la vista atenta a las copas del manglar!',
     insiderSecretsEn: "Captain's Secret: In September, the water inside the Escudo inner cove is clear as liquid glass. If you snorkel into the small cathedral cave on the north side, you will see thousands of tiny silverside fish reflecting sunlight.",
     insiderSecretsEs: 'Secreto de Capitán: En septiembre, el agua dentro de la caleta este de Escudo es cristalina como vidrio líquido. Si hacen snorkel en la cueva catedral del norte, verán miles de peces plateados reflejando la luz solar.',
-    image: 'https://images.unsplash.com/photo-1605174122933-20738d8191d8?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1605174122933-20738d8191d8?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'playa-estrella',
@@ -155,7 +155,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Bienvenidos a Playa Estrella! Noten lo cristalina y tranquila que es esta bahía turquesa. Esparcidas sobre la arena blanca verán cientos de Estrellas de Mar Cojín (Oreaster reticulatus). Recuerden nuestra regla de oro Pangea Bocas: las estrellas respiran a través de su delicada piel bajo el agua. Sacarlas del agua las asfixia. ¡Admiremos sus vibrantes colores naranja y rojo desde la superficie!',
     insiderSecretsEn: "Captain's Secret: Walk 200 meters past the last restaurant towards the mangrove point. You'll find a quiet natural pool where juvenile stingrays and yellowtail snappers gather.",
     insiderSecretsEs: 'Secreto de Capitán: Caminen 200 metros más allá del último restaurante hacia la punta de manglar. Encontrarán una poza natural silenciosa donde se reúnen rayas juveniles y pargos.',
-    image: 'https://images.unsplash.com/photo-1456840449473-320da5d25d3c?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1456840449473-320da5d25d3c?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'isla-pajaro',
@@ -193,7 +193,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Miren este dramático monolito de roca que emerge del Océano Atlántico! Este es Cayo Cisne o Isla de los Pájaros — un santuario protegido. Esta roca es el único lugar conocido de anidación en toda Centroamérica para el Rabijunco Piquirrojo. ¡Escuchen sus cantos y miren sus largas plumas blancas flotando en la brisa marina!',
     insiderSecretsEn: "Captain's Secret: Approach from the southeast corner during morning light. The sunlight hits the sea cave arches perfectly, revealing nesting brown boobies and frigatebirds.",
     insiderSecretsEs: 'Secreto de Capitán: Aproximarse desde la esquina sureste con luz matutina. El sol ilumina los arcos de las cuevas revelando nidos de piqueros café y fragatas.',
-    image: 'https://images.unsplash.com/photo-1695071571179-fc2873fbb396?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1695071571179-fc2873fbb396?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'isla-colon',
@@ -231,7 +231,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Bienvenidos a Isla Colón, el corazón palpitante del archipiélago de Bocas del Toro! Mientras navegamos por el frente marino, miren las icónicas casas de madera sobre pilotes. A principios del siglo XX, este puerto exportaba millones de racimos de banano. ¡Hoy es nuestra puerta de entrada a maravillas marinas y selváticas!',
     insiderSecretsEn: "Captain's Secret: The channel between Isla Colón and Carenero holds deep cool water currents where spotted eagle rays glide right underneath parked boats at twilight.",
     insiderSecretsEs: 'Secreto de Capitán: El canal entre Isla Colón y Carenero alberga corrientes frías donde las rayas águila planean justo debajo de los barcos al atardecer.',
-    image: 'https://images.unsplash.com/photo-1593881135370-702114a3448d?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1593881135370-702114a3448d?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'bastimentos',
@@ -269,7 +269,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Estamos entrando a Isla Bastimentos, hogar del primer Parque Nacional Marino de Panamá! En tierra, alberga selva primaria donde las pequeñas Ranas Venenosas Rojas saltan entre las hojas. Bajo el agua, sus arrecifes están llenos de peces loro, peces ángel y tortugas carey. ¡Preparemos el equipo de snorkel!',
     insiderSecretsEn: "Captain's Secret: At Polo Beach, a legendary local elder named Polo lived off-grid for 50 years. The offshore reef creates a natural swimming lagoon calm enough for snorkeling even when outer seas are rough.",
     insiderSecretsEs: 'Secreto de Capitán: En Playa Polo, el legendario ermitaño Polo vivió sin electricidad durante 50 años. El arrecife crea una piscina natural sin olas ideal para snorkel.',
-    image: 'https://images.unsplash.com/photo-1578375973625-9863f084b7d2?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1578375973625-9863f084b7d2?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'cayos-zapatilla',
@@ -309,7 +309,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Bienvenidos a Cayos Zapatilla — la joya de la corona de Bocas del Toro y del Parque Nacional Marino Bastimentos! Estas dos islas deshabitadas parecen una postal del paraíso. Alrededor de las islas hay jardines de coral poco profundos llenos de peces loro, peces cirujano azul y tortugas carey. ¡Disfruten de una caminata por el sendero ecológico y naden en la laguna turquesa!',
     insiderSecretsEn: "Captain's Secret: On Zapatilla 2, walk along the path behind the park ranger station to reach the wild windward side where giant drift seeds and pristine tide pools form among ancient mangrove roots.",
     insiderSecretsEs: 'Secreto de Capitán: En Zapatilla 2, caminen por el sendero detrás de la estación de guardaparques hacia la costa barlovento para descubrir pozas de marea prístinas entre raíces de manglar.',
-    image: 'https://images.unsplash.com/photo-1580108888829-2a1f82029c44?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1580108888829-2a1f82029c44?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'carenero',
@@ -341,7 +341,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: "¡Al otro lado del canal está Isla Carenero! Hace siglos, exploradores españoles y piratas como Henry Morgan varaban sus galeones de madera en estas arenas para limpiar y 'carenar' las quillas — de ahí su nombre. Es un paraíso pacífico rodeado de restaurantes sobre el agua y arrecifes.",
     insiderSecretsEn: "Captain's Secret: The eastern point of Carenero has a gentle surf break and shallow coral ledge where juvenile nurse sharks sleep during daytime hours.",
     insiderSecretsEs: 'Secreto de Capitán: La punta este de Carenero tiene una ola suave y una cornisa de coral donde duermen tiburones gata juveniles durante el día.',
-    image: 'https://images.unsplash.com/photo-1464723775205-4af28be57d80?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1464723775205-4af28be57d80?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'canal-snyder',
@@ -373,7 +373,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Miren cómo desaparece el agua salada y el aire se vuelve fresco y aromático! Navegamos por el Canal Snyder, un canal selvático excavado a mano en la década de 1890 por la Snyder Banana Company para transportar bananos en barcazas. ¡Observen los reflejos en el agua y busquen monos aulladores, tucanes y caimanes en las orillas!',
     insiderSecretsEn: "Captain's Secret: Morning time between 7:30 AM and 9:00 AM yields 100% stillness on the water, creating photographic mirror images of the jungle canopy.",
     insiderSecretsEs: 'Secreto de Capitán: La mañana entre 7:30 AM y 9:00 AM ofrece calma total en el agua, creando reflejos especulares de la selva para fotografía.',
-    image: 'https://images.unsplash.com/photo-1605039443361-533fd5491984?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1605039443361-533fd5491984?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'darklands',
@@ -411,7 +411,7 @@ export const AREA_KNOWLEDGE_LIST: AreaKnowledge[] = [
     guideSpeechScriptEs: '¡Bienvenidos a Tierra Oscura o Darklands! Esta bahía profunda y tranquila debe su nombre a que la densa selva verde se refleja intensamente en la superficie del agua. Aquí, familias indígenas Ngäbe cultivan cacao orgánico criollo y trinitario desde hace generaciones. ¡Aquí probaremos auténtico chocolate de la selva!',
     insiderSecretsEn: "...",
     insiderSecretsEs: '...',
-    image: 'https://images.unsplash.com/photo-1695072077286-dffc1c54b230?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1695072077286-dffc1c54b230?auto=format&fit=crop&w=1200&q=100',
   },
 ];
 
@@ -433,7 +433,7 @@ export const PARTNER_ORGANIZATIONS: PartnerOrganization[] = [
     guideSpeechScriptEs: '¡Más adelante está la Plantación de Cacao Montezuma! Visitaremos a una familia local que ha perfected el chocolate orgánico. Caminarán bajo las mazorcas de cacao, tostarán los granos a fuego de leña y molerán chocolate artesanal. ¡Prepárense para el chocolate más fresco de sus vidas!',
     activitiesEn: ['Bean-to-bar grinding workshop', 'Rainforest cacao walk', 'Fresh chocolate sampling'],
     activitiesEs: ['Taller de molienda de cacao', 'Caminata en la selva de cacao', 'Cata de chocolate fresco'],
-    image: 'https://images.unsplash.com/photo-1667900598245-6620cea1c04c?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1667900598245-6620cea1c04c?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'wonderland-trails',
@@ -452,7 +452,7 @@ export const PARTNER_ORGANIZATIONS: PartnerOrganization[] = [
     guideSpeechScriptEs: '¡Bienvenidos a Wonderland Trails! Este santuario es prueba viva de restauración selvática. Mientras caminamos por senderos inspirados en Alicia en el País de las Maravillas, miren las copas de los árboles para ver monos capuchinos, perezosos y mariposas morpho azul.',
     activitiesEn: ['Guided rainforest trekking', 'Botanic flora tour'],
     activitiesEs: ['Senderismo guiado por la selva', 'Tour botánico de flora'],
-    image: 'https://images.unsplash.com/photo-1609546737286-7d569b86c56d?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1609546737286-7d569b86c56d?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'oreba-chocolate',
@@ -471,7 +471,7 @@ export const PARTNER_ORGANIZATIONS: PartnerOrganization[] = [
     guideSpeechScriptEs: '¡Estamos a punto de desembarcar en Almirante, donde nos espera nuestro transporte hacia la cooperativa Oreba en tierra firme! Nuestro guía nos mostrará la cultura Ngäbe, plantas medicinales de la selva y el arte ancestral del chocolate.',
     activitiesEn: ['Cultural Ngäbe welcome', 'Traditional medicinal plant walk', 'Handmade chocolate creation', 'Traditional Ngäbe lunch'],
     activitiesEs: ['Bienvenida cultural Ngäbe', 'Caminata de plantas medicinales', 'Elaboración de chocolate a mano', 'Almuerzo tradicional Ngäbe'],
-    image: 'https://images.unsplash.com/photo-1507576164121-220762647800?auto=format&fit=crop&w=1200&q=80'
+    image: 'https://images.unsplash.com/photo-1507576164121-220762647800?auto=format&fit=crop&w=1200&q=100'
   },
   {
     id: 'zipline-red-frog',
@@ -490,7 +490,7 @@ export const PARTNER_ORGANIZATIONS: PartnerOrganization[] = [
     guideSpeechScriptEs: '¡Prepárense para una dosis de adrenalina en la copa de los árboles! El zipline de Red Frog cuenta con 7 líneas que se deslizan sobre árboles gigantes con vista al mar Caribe. ¡Abran bien los ojos en la plataforma 4 para ver perezosos durmiendo al lado!',
     activitiesEn: ['7 Canopy Zip Lines', 'Tarzan swing', 'Treetop ocean view platforms'],
     activitiesEs: ['7 Tirolesas en la selva', 'Salto de Tarzán', 'Plataformas con vista al mar'],
-    image: 'https://images.unsplash.com/photo-1531204709756-1c7a41bf8936?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1531204709756-1c7a41bf8936?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'tierra-encanto',
@@ -509,7 +509,7 @@ export const PARTNER_ORGANIZATIONS: PartnerOrganization[] = [
     guideSpeechScriptEs: '¡Bienvenidos a Tierra Encanto! Esta granja orgánica protege la selva tropical y ofrece la oportunidad de aprender sobre ella.',
     activitiesEn: ['Permaculture garden tour', 'Farm-to-table tropical lunch', 'Watefall'],
     activitiesEs: ['Tour de jardín de permacultura', 'Almuerzo tropical de la finca a la mesa', 'Cascada'],
-    image: 'https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=1200&q=100',
   },
 ];
 
@@ -540,7 +540,7 @@ export const WILDLIFE_HALL_OF_FAME: WildlifeHallOfFameItem[] = [
       '¡Solo quedan ~100 individuos en todo el planeta!',
       'REGLA ESTRICTA: Nunca tocar. Observar a distancia evita estrés letal.',
     ],
-    image: 'https://images.unsplash.com/photo-1428973085873-61a784626aad?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1428973085873-61a784626aad?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'bottlenose-dolphin',
@@ -568,7 +568,7 @@ export const WILDLIFE_HALL_OF_FAME: WildlifeHallOfFameItem[] = [
       'PROTOCOLO EN BARCO: Mantener velocidad lenta (<5 nudos), no rodear ni perseguir manadas.',
       'Si se acercan al barco, mantener motores en neutral y dejar que jueguen con la proa.',
     ],
-    image: 'https://images.unsplash.com/photo-1583081205988-853ce245e058?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1583081205988-853ce245e058?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'strawberry-poison-frog',
@@ -594,7 +594,7 @@ export const WILDLIFE_HALL_OF_FAME: WildlifeHallOfFameItem[] = [
       '¡Las madres cargan renacuajos en su espalda uno por uno hacia bromelias altas!',
       'NO AGARRAR: Los aceites de las manos humanas dañan su piel húmeda y sus toxinas irritan.',
     ],
-    image: 'https://images.unsplash.com/photo-1607561531817-5339b3664510?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1607561531817-5339b3664510?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'leatherback-turtle',
@@ -624,7 +624,7 @@ export const WILDLIFE_HALL_OF_FAME: WildlifeHallOfFameItem[] = [
       'TEMPORADA DE ANIDACIÓN: Marzo a Julio (Baulas) y Mayo a Noviembre (Carey y Verdes) en playas Soropta y Bluff.',
       'PROTOCOLOS DE CONSERVACIÓN ESTRICTOS: Cero fotografía con flash o luz blanca. Usar solo luz LED roja. Mantener 10 m de distancia y nunca tocar tortugas o neonatos.',
     ],
-    image: 'https://images.unsplash.com/photo-1509747129352-c4244f0b9bf9?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1509747129352-c4244f0b9bf9?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'bocas-birds',
@@ -650,7 +650,7 @@ export const WILDLIFE_HALL_OF_FAME: WildlifeHallOfFameItem[] = [
       '¡Las Oropéndolas Montezuma tejen nidos colgantes en forma de péndulo de más de 1 metro!',
       'Los Rabijuncos Piquirrojos en Isla Pájaro tienen plumas largas en la cola de hasta 50 cm.',
     ],
-    image: 'https://images.unsplash.com/photo-1741019912227-e3af14d74e2b?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1741019912227-e3af14d74e2b?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'ceiba-almond-mangrove',
@@ -678,7 +678,7 @@ export const WILDLIFE_HALL_OF_FAME: WildlifeHallOfFameItem[] = [
       'ALMENDRO DE PLAYA: Árboles de copa frondosa en la costa que producen nueces flotantes consumidas por perezosos, iguanas y loros.',
       'CORREDOR VERDE DEL CANAL SNYDER: Árboles entrelazados forman un túnel natural que da refugio a monos aulladores, tucanes y mariposas morpho azul.',
     ],
-    image: 'https://images.unsplash.com/photo-1736524972348-85c310d7815b?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1736524972348-85c310d7815b?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'tropical-rainforest-flora',
@@ -704,7 +704,7 @@ export const WILDLIFE_HALL_OF_FAME: WildlifeHallOfFameItem[] = [
       'BROMELIAS TANQUE: Plantas epífitas en ramas de árboles que retienen litros de agua de lluvia, creando micro-ecosistemas para renacuajos de ranas rojas.',
       'ORQUÍDEAS SILVESTRES Y HIGUERÓN: Más de 300 especies de orquídeas nativas florecen en Bocas. Las raíces del higuerón abrazan árboles huéspedes creando troncos místicos.',
     ],
-    image: 'https://images.unsplash.com/photo-1663030370429-a430ee91d783?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1663030370429-a430ee91d783?auto=format&fit=crop&w=1200&q=100',
   },
 ];
 
@@ -730,7 +730,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: "Thousands of years before European ships anchored in these bays, the ancestral Ngäbe people navigated these exact waters in mahogany dugout canoes called 'cayucos'. They traded cacao as sacred currency and lived in harmony with the sea.",
     guideSpeechScriptEs: 'Miles de años antes de que llegaran barcos europeos, el pueblo ancestral Ngäbe navegaba estas mismas aguas en cayucos de caoba. Comerciaban cacao como moneda sagrada y vivían en armonía con el mar.',
-    image: 'https://images.unsplash.com/photo-1580984398875-10d81379ed6b?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1580984398875-10d81379ed6b?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'epoch-columbus-pirates',
@@ -753,7 +753,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: "In October 1502, Christopher Columbus sailed into Boca del Drago during his 4th and final voyage. He named Isla Colón after himself and Bastimentos after island provisions ('bastimentos'). Later in the 1600s, pirates like Henry Morgan hid their ships in Carenero channel to scrape barnacles off hulls and store plunder!",
     guideSpeechScriptEs: 'En octubre de 1502, Cristóbal Colón navegó en Boca del Drago durante su 4to viaje. Nombró Isla Colón, Cristóbal y Bastimentos. Más tarde en los 1600s, piratas como Henry Morgan escondían sus barcos en Carenero para reparar las quillas y guardar tesoros.',
-    image: 'https://images.unsplash.com/photo-1598707630720-eb08ef27bc11?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1598707630720-eb08ef27bc11?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'epoch-west-indian-migration',
@@ -776,7 +776,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: "As we pass Old Bank on Isla Bastimentos, listen to the vibrant rhythm of the island! In the 1800s, West Indian families brought their calypso, coconut cuisine, and created Guari-Guari — a unique creole dialect spoken nowhere else in the world.",
     guideSpeechScriptEs: '¡Al pasar por Old Bank en Isla Bastimentos, sientan el ritmo caribeño! En los 1800s, familias antillanas trajeron su calipso, cocina con coco y crearon el Guari-Guari, un dialecto criollo único en el mundo.',
-    image: 'https://images.unsplash.com/photo-1603057901298-1503ab0f3a61?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1603057901298-1503ab0f3a61?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'epoch-banana-boom',
@@ -799,7 +799,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: 'During the late 1800s, Bocas del Toro was one of the wealthiest ports in the Caribbean! Millions of banana bunches were loaded onto steamships here. United Fruit Company built overwater wooden mansions and hand-dug Snyder Canal through 10 kilometers of dense jungle!',
     guideSpeechScriptEs: 'A finales de 1800, ¡Bocas del Toro era uno de los puertos más ricos del Caribe! Millones de racimos de banano se cargaban en vapores. United Fruit Co. construyó casonas sobre el agua y excavó a mano el Canal Snyder.',
-    image: 'https://images.unsplash.com/photo-1610911434407-54dbc487af49?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1610911434407-54dbc487af49?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'epoch-bocas-town-architectural',
@@ -822,7 +822,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: 'Notice the iconic wooden buildings built right over the water! After a fire in 1904, Bocas Town was rebuilt in this gorgeous Caribbean Victorian style — elevated on stilts to let cool sea breezes pass beneath and survive rising tides.',
     guideSpeechScriptEs: '¡Miren las icónicas casas de madera sobre el agua! Tras el incendio de 1904, Bocas Town fue reconstruido con este hermoso estilo victoriano caribeño sobre pilotes para dejar pasar la brisa marina.',
-    image: 'https://images.pexels.com/photos/15072766/pexels-photo-15072766.jpeg?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/15072766/pexels-photo-15072766.jpeg?auto=format&fit=crop&w=1200&q=100',
   },
   {
     id: 'epoch-ecotourism',
@@ -845,7 +845,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: 'In 1988, Panama established Isla Bastimentos National Marine Park to protect coral reefs, manatees, and sea turtle nesting beaches. Today, Pangea Bocas carries this legacy forward with eco-friendly boat charters, zero-impact wildlife viewing, and fair-trade community partnerships.',
     guideSpeechScriptEs: 'En 1988, Panamá creó el Parque Nacional Marino Isla Bastimentos para proteger arrecifes, manatíes y tortugas. Hoy Pangea Bocas continúa este legado con charters ecológicos y conservación comunitaria.',
-    image: 'https://images.pexels.com/photos/14185401/pexels-photo-14185401.jpeg?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/14185401/pexels-photo-14185401.jpeg?auto=format&fit=crop&w=1200&q=100',
   },
 ];
 
