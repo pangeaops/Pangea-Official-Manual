@@ -799,7 +799,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: 'During the late 1800s, Bocas del Toro was one of the wealthiest ports in the Caribbean! Millions of banana bunches were loaded onto steamships here. United Fruit Company built overwater wooden mansions and hand-dug Snyder Canal through 10 kilometers of dense jungle!',
     guideSpeechScriptEs: 'A finales de 1800, ¡Bocas del Toro era uno de los puertos más ricos del Caribe! Millones de racimos de banano se cargaban en vapores. United Fruit Co. construyó casonas sobre el agua y excavó a mano el Canal Snyder.',
-    image: 'https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1610911434407-54dbc487af49?auto=format&fit=crop&w=1200&q=80',
   },
   {
     id: 'epoch-bocas-town-architectural',
@@ -822,7 +822,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: 'Notice the iconic wooden buildings built right over the water! After a fire in 1904, Bocas Town was rebuilt in this gorgeous Caribbean Victorian style — elevated on stilts to let cool sea breezes pass beneath and survive rising tides.',
     guideSpeechScriptEs: '¡Miren las icónicas casas de madera sobre el agua! Tras el incendio de 1904, Bocas Town fue reconstruido con este hermoso estilo victoriano caribeño sobre pilotes para dejar pasar la brisa marina.',
-    image: 'https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/15072766/pexels-photo-15072766.jpeg?auto=format&fit=crop&w=1200&q=80',
   },
   {
     id: 'epoch-ecotourism',
@@ -845,7 +845,7 @@ export const HISTORY_EPOCHS: HistoryEpoch[] = [
     ],
     guideSpeechScriptEn: 'In 1988, Panama established Isla Bastimentos National Marine Park to protect coral reefs, manatees, and sea turtle nesting beaches. Today, Pangea Bocas carries this legacy forward with eco-friendly boat charters, zero-impact wildlife viewing, and fair-trade community partnerships.',
     guideSpeechScriptEs: 'En 1988, Panamá creó el Parque Nacional Marino Isla Bastimentos para proteger arrecifes, manatíes y tortugas. Hoy Pangea Bocas continúa este legado con charters ecológicos y conservación comunitaria.',
-    image: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.pexels.com/photos/14185401/pexels-photo-14185401.jpeg?auto=format&fit=crop&w=1200&q=80',
   },
 ];
 
