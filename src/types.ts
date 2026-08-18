@@ -122,6 +122,21 @@ export interface WildlifeHallOfFameItem {
   image: string;
 }
 
+export interface SeasonCalendarInfo {
+  id: string;
+  seasonTypeEn: string;
+  seasonTypeEs: string;
+  periodEn: string;
+  periodEs: string;
+  descriptionEn: string;
+  descriptionEs: string;
+  whatToExpectEn: { text: string; icon: string }[];
+  whatToExpectEs: { text: string; icon: string }[];
+  agricultureHighlightEn: { title: string; description: string };
+  agricultureHighlightEs: { title: string; description: string };
+  badgeColor: string;
+}
+
 export interface EmergencyProtocol {
   id: string;
   titleEn: string;
@@ -171,6 +186,42 @@ export interface ConservationAreaInfo {
   typeEs: string;
   keyProtectionsEn: string[];
   keyProtectionsEs: string[];
+}
+
+export interface FirstAidKitItem {
+  id: string;
+  nameEn: string;
+  nameEs: string;
+  purposeEn: string;
+  purposeEs: string;
+  recommendedQty: string;
+  category: 'trauma-fracture' | 'marine-envenomation' | 'wounds-burns' | 'resuscitation-airway' | 'medication-hydration';
+}
+
+export interface FirstAidKitCategory {
+  id: string;
+  titleEn: string;
+  titleEs: string;
+  icon: string;
+  badgeColor: string;
+  items: FirstAidKitItem[];
+}
+
+export interface BocasRaySpecies {
+  id: string;
+  commonNameEn: string;
+  commonNameEs: string;
+  scientificName: string;
+  type: 'STINGRAY' | 'MANTA_RAY' | 'EAGLE_RAY';
+  habitatEn: string;
+  habitatEs: string;
+  hasVenomousBarb: boolean;
+  barbLocationEn?: string;
+  barbLocationEs?: string;
+  behaviorEn: string;
+  behaviorEs: string;
+  firstAidNoteEn: string;
+  firstAidNoteEs: string;
 }
 
 export interface QuizQuestion {

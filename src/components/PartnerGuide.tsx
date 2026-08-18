@@ -40,11 +40,32 @@ export const PartnerGuide: React.FC<PartnerGuideProps> = ({ languageMode }) => {
             className="bg-gray-50 border border-gray-200 rounded-2xl p-5 shadow-sm hover:shadow-md transition-all flex flex-col justify-between"
           >
             <div>
-              <div className="flex items-center justify-between gap-2 mb-3">
-                <span className="px-2.5 py-1 bg-[#1A1A1A] text-[#FFB519] text-[10px] font-black uppercase rounded-lg shadow-sm">
-                  Pangea Partner
-                </span>
-              </div>
+              {/* Image Banner */}
+              {partner.image && (
+                <div className="relative h-44 rounded-xl overflow-hidden mb-4 border border-gray-200 shadow-sm">
+                  <img
+                    src={partner.image}
+                    alt={partner.name}
+                    className="w-full h-full object-cover"
+                    referrerPolicy="no-referrer"
+                    onError={(e) => {
+                      (e.currentTarget as HTMLImageElement).src =
+                        'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80';
+                    }}
+                  />
+                  <div className="absolute top-3 left-3 px-2.5 py-1 bg-[#1A1A1A] text-[#FFB519] text-[10px] font-black uppercase rounded-lg shadow-sm">
+                    Pangea Partner
+                  </div>
+                </div>
+              )}
+
+              {!partner.image && (
+                <div className="flex items-center justify-between gap-2 mb-3">
+                  <span className="px-2.5 py-1 bg-[#1A1A1A] text-[#FFB519] text-[10px] font-black uppercase rounded-lg shadow-sm">
+                    Pangea Partner
+                  </span>
+                </div>
+              )}
 
               <h3 className="text-lg font-black text-[#1A1A1A] mb-1">{partner.name}</h3>
 

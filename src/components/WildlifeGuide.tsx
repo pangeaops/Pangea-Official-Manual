@@ -1,7 +1,7 @@
 import React from 'react';
 import { WildlifeHallOfFameItem, LanguageMode } from '../types';
-import { WILDLIFE_HALL_OF_FAME } from '../data/manualData';
-import { Sparkles, MapPin, ShieldAlert, Heart, Leaf, AlertTriangle } from 'lucide-react';
+import { WILDLIFE_HALL_OF_FAME, WILDLIFE_GUIDE_EXTERNAL_URL } from '../data/manualData';
+import { Sparkles, MapPin, ShieldAlert, Heart, Leaf, AlertTriangle, ExternalLink } from 'lucide-react';
 
 interface WildlifeGuideProps {
   languageMode: LanguageMode;
@@ -25,19 +25,32 @@ export const WildlifeGuide: React.FC<WildlifeGuideProps> = ({ languageMode }) =>
             </h2>
             <p className="text-xs text-gray-500 font-medium">
               {languageMode === 'ES'
-                ? 'Especies icónicas: Perezosos Pigmeos, Delfines, Ranas Rojas, Tortugas, Aves y Árboles Ancestrales.'
-                : 'Pygmy Sloths, Bottlenose Dolphins, Red Frogs, Leatherback Turtles, Toucans & Ancient Rainforest Trees.'}
+                ? 'Monos de Panamá (Aulladores, Capuchinos, Titís, Arañas, Jujuná), Perezosos Pigmeos, Delfines, Ranas Rojas, Tortugas Marinas y Flora Ancestral.'
+                : 'Panama Monkeys (Howlers, Capuchins, Tamarins, Spider Monkeys, Night Monkeys), Pygmy Sloths, Dolphins, Red Frogs, Sea Turtles & Ancient Flora.'}
             </p>
           </div>
         </div>
 
-        <div className="px-4 py-2 bg-amber-50 border border-amber-300 text-amber-900 rounded-xl text-xs font-black flex items-center gap-2">
-          <AlertTriangle className="w-4 h-4 text-amber-600 shrink-0" />
-          <span>
-            {languageMode === 'ES'
-              ? 'Regla de Oro: ¡NUNCA tocar ni alimentar la fauna silvestre!'
-              : 'Golden Rule: NEVER touch or feed wildlife!'}
-          </span>
+        <div className="flex flex-wrap items-center gap-3">
+          <a
+            href={WILDLIFE_GUIDE_EXTERNAL_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-2 bg-[#1A1A1A] hover:bg-black text-[#FFB519] rounded-xl text-xs font-black flex items-center gap-2 shadow-sm transition-all hover:scale-105"
+            title="Open official Wildlife Guide website"
+          >
+            <ExternalLink className="w-4 h-4 text-[#FFB519]" />
+            <span>{languageMode === 'ES' ? 'wildlifeguide.netlify.app' : 'wildlifeguide.netlify.app'}</span>
+          </a>
+
+          <div className="px-4 py-2 bg-amber-50 border border-amber-300 text-amber-900 rounded-xl text-xs font-black flex items-center gap-2">
+            <AlertTriangle className="w-4 h-4 text-amber-600 shrink-0" />
+            <span>
+              {languageMode === 'ES'
+                ? '¡NUNCA tocar ni alimentar la fauna silvestre!'
+                : 'NEVER touch or feed wildlife!'}
+            </span>
+          </div>
         </div>
       </div>
 
@@ -58,7 +71,8 @@ export const WildlifeGuide: React.FC<WildlifeGuideProps> = ({ languageMode }) =>
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
                     onError={(e) => {
-                      (e.currentTarget as HTMLImageElement).style.display = 'none';
+                      (e.currentTarget as HTMLImageElement).src =
+                        'https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?auto=format&fit=crop&w=1200&q=80';
                     }}
                   />
                   <div className="absolute top-3 left-3 px-2.5 py-1 bg-[#1A1A1A] text-[#FFB519] text-[10px] font-black uppercase rounded-lg shadow">

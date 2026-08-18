@@ -8,6 +8,7 @@ import { PreFlightChecklist } from './components/PreFlightChecklist';
 import { AreaGuide } from './components/AreaGuide';
 import { PartnerGuide } from './components/PartnerGuide';
 import { WildlifeGuide } from './components/WildlifeGuide';
+import { SeasonalCalendar } from './components/SeasonalCalendar';
 import { HistoryBonus } from './components/HistoryBonus';
 import { EmergencyCards } from './components/EmergencyCards';
 import { ManualDetailModal } from './components/ManualDetailModal';
@@ -315,6 +316,9 @@ export default function App() {
 
         {/* Tab 6: Wildlife Hall of Fame */}
         {activeTab === 'wildlife' && <WildlifeGuide languageMode={languageMode} />}
+
+        {/* Tab: Seasons Calendar */}
+        {activeTab === 'seasons' && <SeasonalCalendar languageMode={languageMode} />}
 
         {/* Tab 7: History & Bonus Knowledge */}
         {activeTab === 'bonus' && <HistoryBonus languageMode={languageMode} />}

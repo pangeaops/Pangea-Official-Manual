@@ -15,6 +15,7 @@ import {
   BookOpen,
   Search,
   Globe,
+  Calendar,
 } from 'lucide-react';
 
 interface HeaderProps {
@@ -45,6 +46,7 @@ export const Header: React.FC<HeaderProps> = ({
     { id: 'areas', labelEn: 'Knowledge by Area', labelEs: 'Conocimiento por Área', icon: MapPin },
     { id: 'partners', labelEn: 'Partner Organizations', labelEs: 'Socios y Aliados', icon: Building2 },
     { id: 'wildlife', labelEn: 'Wildlife Hall of Fame', labelEs: 'Salón de Fauna y Flora', icon: Sparkles },
+    { id: 'seasons', labelEn: 'Seasons Calendar', labelEs: 'Calendario de Temporadas', icon: Calendar },
     { id: 'bonus', labelEn: 'History & Bonus Knowledge', labelEs: 'Historia y Conocimiento Extra', icon: Compass },
     { id: 'emergency', labelEn: 'Emergency First Aid', labelEs: 'Primeros Auxilios', icon: ShieldAlert },
   ];

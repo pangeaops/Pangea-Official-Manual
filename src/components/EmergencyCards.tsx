@@ -581,3 +581,4 @@ export const EmergencyCards: React.FC<EmergencyCardsProps> = ({ languageMode }) 
     </div>
   );
 };
+
